@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\fridy\Desktop\porject\stm32_usb_keyboard\hal_key_board\usb_keyboard\usb_keyboard.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=usb_keyboard-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=usb_keyboard-slotholes.txt|DrillLayers=gtl,gbl

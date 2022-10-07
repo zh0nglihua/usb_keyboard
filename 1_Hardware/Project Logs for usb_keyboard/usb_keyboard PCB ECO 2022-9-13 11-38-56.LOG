@@ -1,0 +1,2343 @@
+Added Component: Designator=C1(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(REG_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(REG_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(REG_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(REG_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(REG_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(REG_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(REG_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=REG1(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG2(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG3(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG4(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG5(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG6(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG7(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG8(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG9(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG10(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG11(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG12(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG13(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG14(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG15(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG16(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG17(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG18(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG19(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG20(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG21(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=REG22(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170615/1497511005633.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "10k¶∏ °¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(∫Ò…˘)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Resistors"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = "62.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603x4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C29718"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "4D03WGJ0103T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "°¿200ppm/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "°¿5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW1(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW6(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW7(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW8(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW9(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW10(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW11(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW12(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW13(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW14(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW15(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW16(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW17(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW18(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW19(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW20(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW21(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW22(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW23(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW24(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW25(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW26(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW27(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW28(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW29(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW30(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW31(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW32(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW33(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW34(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW35(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW36(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW37(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW38(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW39(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW40(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW41(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW42(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW43(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW44(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW45(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW46(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW47(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW48(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW49(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW50(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW51(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW52(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW53(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW54(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW55(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW56(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW57(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW58(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW59(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW60(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW61(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW62(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW63(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW64(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW65(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW66(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW67(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW68(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW69(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW70(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW71(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW72(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW73(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW74(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW75(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW76(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW77(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW78(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW79(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW80(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW81(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW82(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW83(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW84(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW85(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW86(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=SW87(KEY_Mechanical)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint 2"; Value = "MX-KEY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KEYBOARD-SW"; VariantName = "[No Variations]"
+Added Component: Designator=U1(STM-LQFP48_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "A/D Converter"; Value = "2x12-bit (10 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Low Profile Quad Flat Package, 7 x 7 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 6, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 5"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-6063-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1447637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "59M2182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "57P1222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 5"; Value = "511-STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SH1.0-3P-STAND)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.comnull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SH1.0-3P-STAND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SH1.0-3P-STAND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SH1.0-3P-STAND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "CONN-SMD-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900023785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SH1.0-3P-STAND"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SH1.0-3P-STAND)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.comnull"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SH1.0-3P-STAND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "SH1.0-3P-STAND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SH1.0-3P-STAND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "CONN-SMD-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C9900023785"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SH1.0-3P-STAND"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT23-5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=U8(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=U12(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=U13(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=U14(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=U15(SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20160218/1457707760975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia(∞≤ ¿)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAME"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NUMBER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Type"; Value = "IN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SOIC-16_150mil"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5613"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC165D,653"; VariantName = "[No Variations]"
+Added Component: Designator=USB1(Type-C-TOP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(æß’Ò-3P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW4-1
+Added Pin To Net: NetName=GND Pin=SW5-1
+Added Pin To Net: NetName=GND Pin=SW6-1
+Added Pin To Net: NetName=GND Pin=SW7-1
+Added Pin To Net: NetName=GND Pin=SW8-1
+Added Pin To Net: NetName=GND Pin=SW9-1
+Added Pin To Net: NetName=GND Pin=SW10-1
+Added Pin To Net: NetName=GND Pin=SW11-1
+Added Pin To Net: NetName=GND Pin=SW12-1
+Added Pin To Net: NetName=GND Pin=SW13-1
+Added Pin To Net: NetName=GND Pin=SW14-1
+Added Pin To Net: NetName=GND Pin=SW15-1
+Added Pin To Net: NetName=GND Pin=SW16-1
+Added Pin To Net: NetName=GND Pin=SW17-1
+Added Pin To Net: NetName=GND Pin=SW18-1
+Added Pin To Net: NetName=GND Pin=SW19-1
+Added Pin To Net: NetName=GND Pin=SW20-1
+Added Pin To Net: NetName=GND Pin=SW21-1
+Added Pin To Net: NetName=GND Pin=SW22-1
+Added Pin To Net: NetName=GND Pin=SW23-1
+Added Pin To Net: NetName=GND Pin=SW24-1
+Added Pin To Net: NetName=GND Pin=SW25-1
+Added Pin To Net: NetName=GND Pin=SW26-1
+Added Pin To Net: NetName=GND Pin=SW27-1
+Added Pin To Net: NetName=GND Pin=SW28-1
+Added Pin To Net: NetName=GND Pin=SW29-1
+Added Pin To Net: NetName=GND Pin=SW30-1
+Added Pin To Net: NetName=GND Pin=SW31-1
+Added Pin To Net: NetName=GND Pin=SW32-1
+Added Pin To Net: NetName=GND Pin=SW33-1
+Added Pin To Net: NetName=GND Pin=SW34-1
+Added Pin To Net: NetName=GND Pin=SW35-1
+Added Pin To Net: NetName=GND Pin=SW36-1
+Added Pin To Net: NetName=GND Pin=SW37-1
+Added Pin To Net: NetName=GND Pin=SW38-1
+Added Pin To Net: NetName=GND Pin=SW39-1
+Added Pin To Net: NetName=GND Pin=SW40-1
+Added Pin To Net: NetName=GND Pin=SW41-1
+Added Pin To Net: NetName=GND Pin=SW42-1
+Added Pin To Net: NetName=GND Pin=SW43-1
+Added Pin To Net: NetName=GND Pin=SW44-1
+Added Pin To Net: NetName=GND Pin=SW45-1
+Added Pin To Net: NetName=GND Pin=SW46-1
+Added Pin To Net: NetName=GND Pin=SW47-1
+Added Pin To Net: NetName=GND Pin=SW48-1
+Added Pin To Net: NetName=GND Pin=SW49-1
+Added Pin To Net: NetName=GND Pin=SW50-1
+Added Pin To Net: NetName=GND Pin=SW51-1
+Added Pin To Net: NetName=GND Pin=SW52-1
+Added Pin To Net: NetName=GND Pin=SW53-1
+Added Pin To Net: NetName=GND Pin=SW54-1
+Added Pin To Net: NetName=GND Pin=SW55-1
+Added Pin To Net: NetName=GND Pin=SW56-1
+Added Pin To Net: NetName=GND Pin=SW57-1
+Added Pin To Net: NetName=GND Pin=SW58-1
+Added Pin To Net: NetName=GND Pin=SW59-1
+Added Pin To Net: NetName=GND Pin=SW60-1
+Added Pin To Net: NetName=GND Pin=SW61-1
+Added Pin To Net: NetName=GND Pin=SW62-1
+Added Pin To Net: NetName=GND Pin=SW63-1
+Added Pin To Net: NetName=GND Pin=SW64-1
+Added Pin To Net: NetName=GND Pin=SW65-1
+Added Pin To Net: NetName=GND Pin=SW66-1
+Added Pin To Net: NetName=GND Pin=SW67-1
+Added Pin To Net: NetName=GND Pin=SW68-1
+Added Pin To Net: NetName=GND Pin=SW69-1
+Added Pin To Net: NetName=GND Pin=SW70-1
+Added Pin To Net: NetName=GND Pin=SW71-1
+Added Pin To Net: NetName=GND Pin=SW72-1
+Added Pin To Net: NetName=GND Pin=SW73-1
+Added Pin To Net: NetName=GND Pin=SW74-1
+Added Pin To Net: NetName=GND Pin=SW75-1
+Added Pin To Net: NetName=GND Pin=SW76-1
+Added Pin To Net: NetName=GND Pin=SW77-1
+Added Pin To Net: NetName=GND Pin=SW78-1
+Added Pin To Net: NetName=GND Pin=SW79-1
+Added Pin To Net: NetName=GND Pin=SW80-1
+Added Pin To Net: NetName=GND Pin=SW81-1
+Added Pin To Net: NetName=GND Pin=SW82-1
+Added Pin To Net: NetName=GND Pin=SW83-1
+Added Pin To Net: NetName=GND Pin=SW84-1
+Added Pin To Net: NetName=GND Pin=SW85-1
+Added Pin To Net: NetName=GND Pin=SW86-1
+Added Pin To Net: NetName=GND Pin=SW87-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=GND Pin=U1-44
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Pin To Net: NetName=GND Pin=U8-8
+Added Pin To Net: NetName=GND Pin=U9-8
+Added Pin To Net: NetName=GND Pin=U10-8
+Added Pin To Net: NetName=GND Pin=U11-8
+Added Pin To Net: NetName=GND Pin=U12-8
+Added Pin To Net: NetName=GND Pin=U13-8
+Added Pin To Net: NetName=GND Pin=U14-8
+Added Pin To Net: NetName=GND Pin=U15-8
+Added Pin To Net: NetName=GND Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-2
+Added Pin To Net: NetName=GND Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-A1
+Added Pin To Net: NetName=GND Pin=USB1-A12
+Added Pin To Net: NetName=GND Pin=USB1-B1
+Added Pin To Net: NetName=GND Pin=USB1-B12
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_CAP Pin=R5-1
+Added Pin To Net: NetName=LED_CAP Pin=U1-45
+Added Net: Name=LED_CAP
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U4-4
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R6-1
+Added Pin To Net: NetName=NetC11_1 Pin=U1-7
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R5-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=USB1-A5
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=USB1-B5
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetREG1_5 Pin=REG1-5
+Added Pin To Net: NetName=NetREG1_5 Pin=SW40-2
+Added Pin To Net: NetName=NetREG1_5 Pin=U5-14
+Added Net: Name=NetREG1_5
+Added Pin To Net: NetName=NetREG1_6 Pin=REG1-6
+Added Pin To Net: NetName=NetREG1_6 Pin=SW41-2
+Added Pin To Net: NetName=NetREG1_6 Pin=U5-13
+Added Net: Name=NetREG1_6
+Added Pin To Net: NetName=NetREG1_7 Pin=REG1-7
+Added Pin To Net: NetName=NetREG1_7 Pin=SW42-2
+Added Pin To Net: NetName=NetREG1_7 Pin=U5-12
+Added Net: Name=NetREG1_7
+Added Pin To Net: NetName=NetREG1_8 Pin=REG1-8
+Added Pin To Net: NetName=NetREG1_8 Pin=SW43-2
+Added Pin To Net: NetName=NetREG1_8 Pin=U5-11
+Added Net: Name=NetREG1_8
+Added Pin To Net: NetName=NetREG2_5 Pin=REG2-5
+Added Pin To Net: NetName=NetREG2_5 Pin=SW5-2
+Added Pin To Net: NetName=NetREG2_5 Pin=U6-14
+Added Net: Name=NetREG2_5
+Added Pin To Net: NetName=NetREG2_6 Pin=REG2-6
+Added Pin To Net: NetName=NetREG2_6 Pin=SW6-2
+Added Pin To Net: NetName=NetREG2_6 Pin=U6-13
+Added Net: Name=NetREG2_6
+Added Pin To Net: NetName=NetREG2_7 Pin=REG2-7
+Added Pin To Net: NetName=NetREG2_7 Pin=SW7-2
+Added Pin To Net: NetName=NetREG2_7 Pin=U6-12
+Added Net: Name=NetREG2_7
+Added Pin To Net: NetName=NetREG2_8 Pin=REG2-8
+Added Pin To Net: NetName=NetREG2_8 Pin=SW8-2
+Added Pin To Net: NetName=NetREG2_8 Pin=U6-11
+Added Net: Name=NetREG2_8
+Added Pin To Net: NetName=NetREG3_5 Pin=REG3-5
+Added Pin To Net: NetName=NetREG3_5 Pin=SW13-2
+Added Pin To Net: NetName=NetREG3_5 Pin=U7-14
+Added Net: Name=NetREG3_5
+Added Pin To Net: NetName=NetREG3_6 Pin=REG3-6
+Added Pin To Net: NetName=NetREG3_6 Pin=SW14-2
+Added Pin To Net: NetName=NetREG3_6 Pin=U7-13
+Added Net: Name=NetREG3_6
+Added Pin To Net: NetName=NetREG3_7 Pin=REG3-7
+Added Pin To Net: NetName=NetREG3_7 Pin=SW15-2
+Added Pin To Net: NetName=NetREG3_7 Pin=U7-12
+Added Net: Name=NetREG3_7
+Added Pin To Net: NetName=NetREG3_8 Pin=REG3-8
+Added Pin To Net: NetName=NetREG3_8 Pin=SW16-2
+Added Pin To Net: NetName=NetREG3_8 Pin=U7-11
+Added Net: Name=NetREG3_8
+Added Pin To Net: NetName=NetREG4_5 Pin=REG4-5
+Added Pin To Net: NetName=NetREG4_5 Pin=SW21-2
+Added Pin To Net: NetName=NetREG4_5 Pin=U8-14
+Added Net: Name=NetREG4_5
+Added Pin To Net: NetName=NetREG4_6 Pin=REG4-6
+Added Pin To Net: NetName=NetREG4_6 Pin=SW22-2
+Added Pin To Net: NetName=NetREG4_6 Pin=U8-13
+Added Net: Name=NetREG4_6
+Added Pin To Net: NetName=NetREG4_7 Pin=REG4-7
+Added Pin To Net: NetName=NetREG4_7 Pin=SW23-2
+Added Pin To Net: NetName=NetREG4_7 Pin=U8-12
+Added Net: Name=NetREG4_7
+Added Pin To Net: NetName=NetREG4_8 Pin=REG4-8
+Added Pin To Net: NetName=NetREG4_8 Pin=SW24-2
+Added Pin To Net: NetName=NetREG4_8 Pin=U8-11
+Added Net: Name=NetREG4_8
+Added Pin To Net: NetName=NetREG5_5 Pin=REG5-5
+Added Pin To Net: NetName=NetREG5_5 Pin=SW29-2
+Added Pin To Net: NetName=NetREG5_5 Pin=U9-14
+Added Net: Name=NetREG5_5
+Added Pin To Net: NetName=NetREG5_6 Pin=REG5-6
+Added Pin To Net: NetName=NetREG5_6 Pin=SW30-2
+Added Pin To Net: NetName=NetREG5_6 Pin=U9-13
+Added Net: Name=NetREG5_6
+Added Pin To Net: NetName=NetREG5_7 Pin=REG5-7
+Added Pin To Net: NetName=NetREG5_7 Pin=SW31-2
+Added Pin To Net: NetName=NetREG5_7 Pin=U9-12
+Added Net: Name=NetREG5_7
+Added Pin To Net: NetName=NetREG5_8 Pin=REG5-8
+Added Pin To Net: NetName=NetREG5_8 Pin=SW32-2
+Added Pin To Net: NetName=NetREG5_8 Pin=U9-11
+Added Net: Name=NetREG5_8
+Added Pin To Net: NetName=NetREG6_5 Pin=REG6-5
+Added Pin To Net: NetName=NetREG6_5 Pin=SW45-2
+Added Pin To Net: NetName=NetREG6_5 Pin=U10-14
+Added Net: Name=NetREG6_5
+Added Pin To Net: NetName=NetREG6_6 Pin=REG6-6
+Added Pin To Net: NetName=NetREG6_6 Pin=SW46-2
+Added Pin To Net: NetName=NetREG6_6 Pin=U10-13
+Added Net: Name=NetREG6_6
+Added Pin To Net: NetName=NetREG6_7 Pin=REG6-7
+Added Pin To Net: NetName=NetREG6_7 Pin=SW47-2
+Added Pin To Net: NetName=NetREG6_7 Pin=U10-12
+Added Net: Name=NetREG6_7
+Added Pin To Net: NetName=NetREG6_8 Pin=REG6-8
+Added Pin To Net: NetName=NetREG6_8 Pin=SW48-2
+Added Pin To Net: NetName=NetREG6_8 Pin=U10-11
+Added Net: Name=NetREG6_8
+Added Pin To Net: NetName=NetREG7_5 Pin=REG7-5
+Added Pin To Net: NetName=NetREG7_5 Pin=SW36-2
+Added Pin To Net: NetName=NetREG7_5 Pin=U5-6
+Added Net: Name=NetREG7_5
+Added Pin To Net: NetName=NetREG7_6 Pin=REG7-6
+Added Pin To Net: NetName=NetREG7_6 Pin=SW37-2
+Added Pin To Net: NetName=NetREG7_6 Pin=U5-5
+Added Net: Name=NetREG7_6
+Added Pin To Net: NetName=NetREG7_7 Pin=REG7-7
+Added Pin To Net: NetName=NetREG7_7 Pin=SW38-2
+Added Pin To Net: NetName=NetREG7_7 Pin=U5-4
+Added Net: Name=NetREG7_7
+Added Pin To Net: NetName=NetREG7_8 Pin=REG7-8
+Added Pin To Net: NetName=NetREG7_8 Pin=SW39-2
+Added Pin To Net: NetName=NetREG7_8 Pin=U5-3
+Added Net: Name=NetREG7_8
+Added Pin To Net: NetName=NetREG8_5 Pin=REG8-5
+Added Pin To Net: NetName=NetREG8_5 Pin=SW1-2
+Added Pin To Net: NetName=NetREG8_5 Pin=U6-6
+Added Net: Name=NetREG8_5
+Added Pin To Net: NetName=NetREG8_6 Pin=REG8-6
+Added Pin To Net: NetName=NetREG8_6 Pin=SW2-2
+Added Pin To Net: NetName=NetREG8_6 Pin=U6-5
+Added Net: Name=NetREG8_6
+Added Pin To Net: NetName=NetREG8_7 Pin=REG8-7
+Added Pin To Net: NetName=NetREG8_7 Pin=SW3-2
+Added Pin To Net: NetName=NetREG8_7 Pin=U6-4
+Added Net: Name=NetREG8_7
+Added Pin To Net: NetName=NetREG8_8 Pin=REG8-8
+Added Pin To Net: NetName=NetREG8_8 Pin=SW4-2
+Added Pin To Net: NetName=NetREG8_8 Pin=U6-3
+Added Net: Name=NetREG8_8
+Added Pin To Net: NetName=NetREG9_5 Pin=REG9-5
+Added Pin To Net: NetName=NetREG9_5 Pin=SW9-2
+Added Pin To Net: NetName=NetREG9_5 Pin=U7-6
+Added Net: Name=NetREG9_5
+Added Pin To Net: NetName=NetREG9_6 Pin=REG9-6
+Added Pin To Net: NetName=NetREG9_6 Pin=SW10-2
+Added Pin To Net: NetName=NetREG9_6 Pin=U7-5
+Added Net: Name=NetREG9_6
+Added Pin To Net: NetName=NetREG9_7 Pin=REG9-7
+Added Pin To Net: NetName=NetREG9_7 Pin=SW11-2
+Added Pin To Net: NetName=NetREG9_7 Pin=U7-4
+Added Net: Name=NetREG9_7
+Added Pin To Net: NetName=NetREG9_8 Pin=REG9-8
+Added Pin To Net: NetName=NetREG9_8 Pin=SW12-2
+Added Pin To Net: NetName=NetREG9_8 Pin=U7-3
+Added Net: Name=NetREG9_8
+Added Pin To Net: NetName=NetREG10_5 Pin=REG10-5
+Added Pin To Net: NetName=NetREG10_5 Pin=SW17-2
+Added Pin To Net: NetName=NetREG10_5 Pin=U8-6
+Added Net: Name=NetREG10_5
+Added Pin To Net: NetName=NetREG10_6 Pin=REG10-6
+Added Pin To Net: NetName=NetREG10_6 Pin=SW18-2
+Added Pin To Net: NetName=NetREG10_6 Pin=U8-5
+Added Net: Name=NetREG10_6
+Added Pin To Net: NetName=NetREG10_7 Pin=REG10-7
+Added Pin To Net: NetName=NetREG10_7 Pin=SW19-2
+Added Pin To Net: NetName=NetREG10_7 Pin=U8-4
+Added Net: Name=NetREG10_7
+Added Pin To Net: NetName=NetREG10_8 Pin=REG10-8
+Added Pin To Net: NetName=NetREG10_8 Pin=SW20-2
+Added Pin To Net: NetName=NetREG10_8 Pin=U8-3
+Added Net: Name=NetREG10_8
+Added Pin To Net: NetName=NetREG11_5 Pin=REG11-5
+Added Pin To Net: NetName=NetREG11_5 Pin=SW25-2
+Added Pin To Net: NetName=NetREG11_5 Pin=U9-6
+Added Net: Name=NetREG11_5
+Added Pin To Net: NetName=NetREG11_6 Pin=REG11-6
+Added Pin To Net: NetName=NetREG11_6 Pin=SW26-2
+Added Pin To Net: NetName=NetREG11_6 Pin=U9-5
+Added Net: Name=NetREG11_6
+Added Pin To Net: NetName=NetREG11_7 Pin=REG11-7
+Added Pin To Net: NetName=NetREG11_7 Pin=SW27-2
+Added Pin To Net: NetName=NetREG11_7 Pin=U9-4
+Added Net: Name=NetREG11_7
+Added Pin To Net: NetName=NetREG11_8 Pin=REG11-8
+Added Pin To Net: NetName=NetREG11_8 Pin=SW28-2
+Added Pin To Net: NetName=NetREG11_8 Pin=U9-3
+Added Net: Name=NetREG11_8
+Added Pin To Net: NetName=NetREG12_5 Pin=REG12-5
+Added Pin To Net: NetName=NetREG12_5 Pin=SW33-2
+Added Pin To Net: NetName=NetREG12_5 Pin=U10-6
+Added Net: Name=NetREG12_5
+Added Pin To Net: NetName=NetREG12_6 Pin=REG12-6
+Added Pin To Net: NetName=NetREG12_6 Pin=SW34-2
+Added Pin To Net: NetName=NetREG12_6 Pin=U10-5
+Added Net: Name=NetREG12_6
+Added Pin To Net: NetName=NetREG12_7 Pin=REG12-7
+Added Pin To Net: NetName=NetREG12_7 Pin=SW35-2
+Added Pin To Net: NetName=NetREG12_7 Pin=U10-4
+Added Net: Name=NetREG12_7
+Added Pin To Net: NetName=NetREG12_8 Pin=REG12-8
+Added Pin To Net: NetName=NetREG12_8 Pin=SW44-2
+Added Pin To Net: NetName=NetREG12_8 Pin=U10-3
+Added Net: Name=NetREG12_8
+Added Pin To Net: NetName=NetREG13_5 Pin=REG13-5
+Added Pin To Net: NetName=NetREG13_5 Pin=SW59-2
+Added Pin To Net: NetName=NetREG13_5 Pin=U11-14
+Added Net: Name=NetREG13_5
+Added Pin To Net: NetName=NetREG13_6 Pin=REG13-6
+Added Pin To Net: NetName=NetREG13_6 Pin=SW60-2
+Added Pin To Net: NetName=NetREG13_6 Pin=U11-13
+Added Net: Name=NetREG13_6
+Added Pin To Net: NetName=NetREG13_7 Pin=REG13-7
+Added Pin To Net: NetName=NetREG13_7 Pin=SW61-2
+Added Pin To Net: NetName=NetREG13_7 Pin=U11-12
+Added Net: Name=NetREG13_7
+Added Pin To Net: NetName=NetREG13_8 Pin=REG13-8
+Added Pin To Net: NetName=NetREG13_8 Pin=SW62-2
+Added Pin To Net: NetName=NetREG13_8 Pin=U11-11
+Added Net: Name=NetREG13_8
+Added Pin To Net: NetName=NetREG14_5 Pin=REG14-5
+Added Pin To Net: NetName=NetREG14_5 Pin=SW54-2
+Added Pin To Net: NetName=NetREG14_5 Pin=U12-14
+Added Net: Name=NetREG14_5
+Added Pin To Net: NetName=NetREG14_6 Pin=REG14-6
+Added Pin To Net: NetName=NetREG14_6 Pin=SW65-2
+Added Pin To Net: NetName=NetREG14_6 Pin=U12-13
+Added Net: Name=NetREG14_6
+Added Pin To Net: NetName=NetREG14_7 Pin=REG14-7
+Added Pin To Net: NetName=NetREG14_7 Pin=SW55-2
+Added Pin To Net: NetName=NetREG14_7 Pin=U12-12
+Added Net: Name=NetREG14_7
+Added Pin To Net: NetName=NetREG14_8 Pin=REG14-8
+Added Pin To Net: NetName=NetREG14_8 Pin=SW56-2
+Added Pin To Net: NetName=NetREG14_8 Pin=U12-11
+Added Net: Name=NetREG14_8
+Added Pin To Net: NetName=NetREG15_5 Pin=REG15-5
+Added Pin To Net: NetName=NetREG15_5 Pin=SW69-2
+Added Pin To Net: NetName=NetREG15_5 Pin=U13-14
+Added Net: Name=NetREG15_5
+Added Pin To Net: NetName=NetREG15_6 Pin=REG15-6
+Added Pin To Net: NetName=NetREG15_6 Pin=SW70-2
+Added Pin To Net: NetName=NetREG15_6 Pin=U13-13
+Added Net: Name=NetREG15_6
+Added Pin To Net: NetName=NetREG15_7 Pin=REG15-7
+Added Pin To Net: NetName=NetREG15_7 Pin=SW71-2
+Added Pin To Net: NetName=NetREG15_7 Pin=U13-12
+Added Net: Name=NetREG15_7
+Added Pin To Net: NetName=NetREG15_8 Pin=REG15-8
+Added Pin To Net: NetName=NetREG15_8 Pin=SW72-2
+Added Pin To Net: NetName=NetREG15_8 Pin=U13-11
+Added Net: Name=NetREG15_8
+Added Pin To Net: NetName=NetREG16_5 Pin=REG16-5
+Added Pin To Net: NetName=NetREG16_5 Pin=SW87-2
+Added Pin To Net: NetName=NetREG16_5 Pin=U15-14
+Added Net: Name=NetREG16_5
+Added Pin To Net: NetName=NetREG16_6 Pin=REG16-6
+Added Pin To Net: NetName=NetREG16_6 Pin=SW80-2
+Added Pin To Net: NetName=NetREG16_6 Pin=U15-13
+Added Net: Name=NetREG16_6
+Added Pin To Net: NetName=NetREG16_7 Pin=REG16-7
+Added Pin To Net: NetName=NetREG16_7 Pin=SW81-2
+Added Pin To Net: NetName=NetREG16_7 Pin=U15-12
+Added Net: Name=NetREG16_7
+Added Pin To Net: NetName=NetREG16_8 Pin=REG16-8
+Added Pin To Net: NetName=NetREG16_8 Pin=SW82-2
+Added Pin To Net: NetName=NetREG16_8 Pin=U15-11
+Added Net: Name=NetREG16_8
+Added Pin To Net: NetName=NetREG17_5 Pin=REG17-5
+Added Pin To Net: NetName=NetREG17_5 Pin=SW77-2
+Added Pin To Net: NetName=NetREG17_5 Pin=U14-14
+Added Net: Name=NetREG17_5
+Added Pin To Net: NetName=NetREG17_6 Pin=REG17-6
+Added Pin To Net: NetName=NetREG17_6 Pin=SW78-2
+Added Pin To Net: NetName=NetREG17_6 Pin=U14-13
+Added Net: Name=NetREG17_6
+Added Pin To Net: NetName=NetREG17_7 Pin=REG17-7
+Added Pin To Net: NetName=NetREG17_7 Pin=SW83-2
+Added Pin To Net: NetName=NetREG17_7 Pin=U14-12
+Added Net: Name=NetREG17_7
+Added Pin To Net: NetName=NetREG17_8 Pin=REG17-8
+Added Pin To Net: NetName=NetREG17_8 Pin=SW84-2
+Added Pin To Net: NetName=NetREG17_8 Pin=U14-11
+Added Net: Name=NetREG17_8
+Added Pin To Net: NetName=NetREG18_5 Pin=REG18-5
+Added Pin To Net: NetName=NetREG18_5 Pin=SW49-2
+Added Pin To Net: NetName=NetREG18_5 Pin=U11-6
+Added Net: Name=NetREG18_5
+Added Pin To Net: NetName=NetREG18_6 Pin=REG18-6
+Added Pin To Net: NetName=NetREG18_6 Pin=SW50-2
+Added Pin To Net: NetName=NetREG18_6 Pin=U11-5
+Added Net: Name=NetREG18_6
+Added Pin To Net: NetName=NetREG18_7 Pin=REG18-7
+Added Pin To Net: NetName=NetREG18_7 Pin=SW51-2
+Added Pin To Net: NetName=NetREG18_7 Pin=U11-4
+Added Net: Name=NetREG18_7
+Added Pin To Net: NetName=NetREG18_8 Pin=REG18-8
+Added Pin To Net: NetName=NetREG18_8 Pin=SW58-2
+Added Pin To Net: NetName=NetREG18_8 Pin=U11-3
+Added Net: Name=NetREG18_8
+Added Pin To Net: NetName=NetREG19_5 Pin=REG19-5
+Added Pin To Net: NetName=NetREG19_5 Pin=SW52-2
+Added Pin To Net: NetName=NetREG19_5 Pin=U12-6
+Added Net: Name=NetREG19_5
+Added Pin To Net: NetName=NetREG19_6 Pin=REG19-6
+Added Pin To Net: NetName=NetREG19_6 Pin=SW53-2
+Added Pin To Net: NetName=NetREG19_6 Pin=U12-5
+Added Net: Name=NetREG19_6
+Added Pin To Net: NetName=NetREG19_7 Pin=REG19-7
+Added Pin To Net: NetName=NetREG19_7 Pin=SW63-2
+Added Pin To Net: NetName=NetREG19_7 Pin=U12-4
+Added Net: Name=NetREG19_7
+Added Pin To Net: NetName=NetREG19_8 Pin=REG19-8
+Added Pin To Net: NetName=NetREG19_8 Pin=SW64-2
+Added Pin To Net: NetName=NetREG19_8 Pin=U12-3
+Added Net: Name=NetREG19_8
+Added Pin To Net: NetName=NetREG20_5 Pin=REG20-5
+Added Pin To Net: NetName=NetREG20_5 Pin=SW57-2
+Added Pin To Net: NetName=NetREG20_5 Pin=U13-6
+Added Net: Name=NetREG20_5
+Added Pin To Net: NetName=NetREG20_6 Pin=REG20-6
+Added Pin To Net: NetName=NetREG20_6 Pin=SW66-2
+Added Pin To Net: NetName=NetREG20_6 Pin=U13-5
+Added Net: Name=NetREG20_6
+Added Pin To Net: NetName=NetREG20_7 Pin=REG20-7
+Added Pin To Net: NetName=NetREG20_7 Pin=SW67-2
+Added Pin To Net: NetName=NetREG20_7 Pin=U13-4
+Added Net: Name=NetREG20_7
+Added Pin To Net: NetName=NetREG20_8 Pin=REG20-8
+Added Pin To Net: NetName=NetREG20_8 Pin=SW68-2
+Added Pin To Net: NetName=NetREG20_8 Pin=U13-3
+Added Net: Name=NetREG20_8
+Added Pin To Net: NetName=NetREG21_5 Pin=REG21-5
+Added Pin To Net: NetName=NetREG21_5 Pin=SW73-2
+Added Pin To Net: NetName=NetREG21_5 Pin=U14-6
+Added Net: Name=NetREG21_5
+Added Pin To Net: NetName=NetREG21_6 Pin=REG21-6
+Added Pin To Net: NetName=NetREG21_6 Pin=SW74-2
+Added Pin To Net: NetName=NetREG21_6 Pin=U14-5
+Added Net: Name=NetREG21_6
+Added Pin To Net: NetName=NetREG21_7 Pin=REG21-7
+Added Pin To Net: NetName=NetREG21_7 Pin=SW75-2
+Added Pin To Net: NetName=NetREG21_7 Pin=U14-4
+Added Net: Name=NetREG21_7
+Added Pin To Net: NetName=NetREG21_8 Pin=REG21-8
+Added Pin To Net: NetName=NetREG21_8 Pin=SW76-2
+Added Pin To Net: NetName=NetREG21_8 Pin=U14-3
+Added Net: Name=NetREG21_8
+Added Pin To Net: NetName=NetREG22_5 Pin=REG22-5
+Added Pin To Net: NetName=NetREG22_5 Pin=U15-6
+Added Net: Name=NetREG22_5
+Added Pin To Net: NetName=NetREG22_6 Pin=REG22-6
+Added Pin To Net: NetName=NetREG22_6 Pin=SW79-2
+Added Pin To Net: NetName=NetREG22_6 Pin=U15-5
+Added Net: Name=NetREG22_6
+Added Pin To Net: NetName=NetREG22_7 Pin=REG22-7
+Added Pin To Net: NetName=NetREG22_7 Pin=SW85-2
+Added Pin To Net: NetName=NetREG22_7 Pin=U15-4
+Added Net: Name=NetREG22_7
+Added Pin To Net: NetName=NetREG22_8 Pin=REG22-8
+Added Pin To Net: NetName=NetREG22_8 Pin=SW86-2
+Added Pin To Net: NetName=NetREG22_8 Pin=U15-3
+Added Net: Name=NetREG22_8
+Added Pin To Net: NetName=NetU5_10 Pin=U5-10
+Added Pin To Net: NetName=NetU5_10 Pin=U6-9
+Added Net: Name=NetU5_10
+Added Pin To Net: NetName=NetU6_10 Pin=U6-10
+Added Pin To Net: NetName=NetU6_10 Pin=U7-9
+Added Net: Name=NetU6_10
+Added Pin To Net: NetName=NetU7_10 Pin=U7-10
+Added Pin To Net: NetName=NetU7_10 Pin=U8-9
+Added Net: Name=NetU7_10
+Added Pin To Net: NetName=NetU8_10 Pin=U8-10
+Added Pin To Net: NetName=NetU8_10 Pin=U9-9
+Added Net: Name=NetU8_10
+Added Pin To Net: NetName=NetU9_10 Pin=U9-10
+Added Pin To Net: NetName=NetU9_10 Pin=U10-9
+Added Net: Name=NetU9_10
+Added Pin To Net: NetName=NetU11_10 Pin=U11-10
+Added Pin To Net: NetName=NetU11_10 Pin=U12-9
+Added Net: Name=NetU11_10
+Added Pin To Net: NetName=NetU12_10 Pin=U12-10
+Added Pin To Net: NetName=NetU12_10 Pin=U13-9
+Added Net: Name=NetU12_10
+Added Pin To Net: NetName=NetU13_10 Pin=U13-10
+Added Pin To Net: NetName=NetU13_10 Pin=U14-9
+Added Net: Name=NetU13_10
+Added Pin To Net: NetName=NetU14_10 Pin=U14-10
+Added Pin To Net: NetName=NetU14_10 Pin=U15-9
+Added Net: Name=NetU14_10
+Added Pin To Net: NetName=Q7 Pin=U10-10
+Added Pin To Net: NetName=Q7 Pin=U11-9
+Added Net: Name=Q7
+Added Pin To Net: NetName=SCAN_CE Pin=U1-39
+Added Pin To Net: NetName=SCAN_CE Pin=U5-15
+Added Pin To Net: NetName=SCAN_CE Pin=U6-15
+Added Pin To Net: NetName=SCAN_CE Pin=U7-15
+Added Pin To Net: NetName=SCAN_CE Pin=U8-15
+Added Pin To Net: NetName=SCAN_CE Pin=U9-15
+Added Pin To Net: NetName=SCAN_CE Pin=U10-15
+Added Pin To Net: NetName=SCAN_CE Pin=U11-15
+Added Pin To Net: NetName=SCAN_CE Pin=U12-15
+Added Pin To Net: NetName=SCAN_CE Pin=U13-15
+Added Pin To Net: NetName=SCAN_CE Pin=U14-15
+Added Pin To Net: NetName=SCAN_CE Pin=U15-15
+Added Net: Name=SCAN_CE
+Added Pin To Net: NetName=SCAN_PL Pin=U1-40
+Added Pin To Net: NetName=SCAN_PL Pin=U5-1
+Added Pin To Net: NetName=SCAN_PL Pin=U6-1
+Added Pin To Net: NetName=SCAN_PL Pin=U7-1
+Added Pin To Net: NetName=SCAN_PL Pin=U8-1
+Added Pin To Net: NetName=SCAN_PL Pin=U9-1
+Added Pin To Net: NetName=SCAN_PL Pin=U10-1
+Added Pin To Net: NetName=SCAN_PL Pin=U11-1
+Added Pin To Net: NetName=SCAN_PL Pin=U12-1
+Added Pin To Net: NetName=SCAN_PL Pin=U13-1
+Added Pin To Net: NetName=SCAN_PL Pin=U14-1
+Added Pin To Net: NetName=SCAN_PL Pin=U15-1
+Added Net: Name=SCAN_PL
+Added Pin To Net: NetName=SOC_IN Pin=U1-5
+Added Pin To Net: NetName=SOC_IN Pin=Y1-3
+Added Net: Name=SOC_IN
+Added Pin To Net: NetName=SOC_OUT Pin=U1-6
+Added Pin To Net: NetName=SOC_OUT Pin=Y1-1
+Added Net: Name=SOC_OUT
+Added Pin To Net: NetName=SPI1_CLK Pin=U1-15
+Added Pin To Net: NetName=SPI1_CLK Pin=U5-2
+Added Pin To Net: NetName=SPI1_CLK Pin=U6-2
+Added Pin To Net: NetName=SPI1_CLK Pin=U7-2
+Added Pin To Net: NetName=SPI1_CLK Pin=U8-2
+Added Pin To Net: NetName=SPI1_CLK Pin=U9-2
+Added Pin To Net: NetName=SPI1_CLK Pin=U10-2
+Added Pin To Net: NetName=SPI1_CLK Pin=U11-2
+Added Pin To Net: NetName=SPI1_CLK Pin=U12-2
+Added Pin To Net: NetName=SPI1_CLK Pin=U13-2
+Added Pin To Net: NetName=SPI1_CLK Pin=U14-2
+Added Pin To Net: NetName=SPI1_CLK Pin=U15-2
+Added Net: Name=SPI1_CLK
+Added Pin To Net: NetName=SPI1_MISO Pin=U1-16
+Added Pin To Net: NetName=SPI1_MISO Pin=U5-9
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SWCLK Pin=U1-37
+Added Pin To Net: NetName=SWCLK Pin=U2-1
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U1-34
+Added Pin To Net: NetName=SWDIO Pin=U2-2
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=UART_RX Pin=U1-31
+Added Pin To Net: NetName=UART_RX Pin=U3-2
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=U1-30
+Added Pin To Net: NetName=UART_TX Pin=U3-1
+Added Net: Name=UART_TX
+Added Pin To Net: NetName=USB_D+ Pin=R7-1
+Added Pin To Net: NetName=USB_D+ Pin=U1-33
+Added Net: Name=USB_D+
+Added Pin To Net: NetName=USB_D- Pin=R2-1
+Added Pin To Net: NetName=USB_D- Pin=U1-32
+Added Net: Name=USB_D-
+Added Pin To Net: NetName=USB_PORT_D+ Pin=R4-1
+Added Pin To Net: NetName=USB_PORT_D+ Pin=R7-2
+Added Pin To Net: NetName=USB_PORT_D+ Pin=USB1-A6
+Added Pin To Net: NetName=USB_PORT_D+ Pin=USB1-B6
+Added Net: Name=USB_PORT_D+
+Added Pin To Net: NetName=USB_PORT_D- Pin=R2-2
+Added Pin To Net: NetName=USB_PORT_D- Pin=USB1-A7
+Added Pin To Net: NetName=USB_PORT_D- Pin=USB1-B7
+Added Net: Name=USB_PORT_D-
+Added Pin To Net: NetName=VBUS Pin=C9-2
+Added Pin To Net: NetName=VBUS Pin=C10-2
+Added Pin To Net: NetName=VBUS Pin=U4-1
+Added Pin To Net: NetName=VBUS Pin=U4-3
+Added Pin To Net: NetName=VBUS Pin=USB1-A4
+Added Pin To Net: NetName=VBUS Pin=USB1-A9
+Added Pin To Net: NetName=VBUS Pin=USB1-B4
+Added Pin To Net: NetName=VBUS Pin=USB1-B9
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VCC_3V3 Pin=C1-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C2-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C3-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C4-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C5-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C6-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C7-2
+Added Pin To Net: NetName=VCC_3V3 Pin=D1-K
+Added Pin To Net: NetName=VCC_3V3 Pin=R4-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R6-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG1-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG1-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG1-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG1-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG2-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG2-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG2-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG2-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG3-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG3-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG3-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG3-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG4-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG4-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG4-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG4-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG5-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG5-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG5-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG5-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG6-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG6-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG6-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG6-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG7-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG7-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG7-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG7-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG8-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG8-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG8-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG8-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG9-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG9-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG9-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG9-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG10-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG10-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG10-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG10-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG11-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG11-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG11-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG11-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG12-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG12-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG12-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG12-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG13-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG13-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG13-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG13-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG14-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG14-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG14-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG14-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG15-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG15-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG15-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG15-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG16-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG16-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG16-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG16-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG17-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG17-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG17-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG17-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG18-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG18-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG18-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG18-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG19-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG19-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG19-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG19-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG20-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG20-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG20-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG20-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG21-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG21-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG21-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG21-4
+Added Pin To Net: NetName=VCC_3V3 Pin=REG22-1
+Added Pin To Net: NetName=VCC_3V3 Pin=REG22-2
+Added Pin To Net: NetName=VCC_3V3 Pin=REG22-3
+Added Pin To Net: NetName=VCC_3V3 Pin=REG22-4
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-1
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-9
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-24
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-36
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-48
+Added Pin To Net: NetName=VCC_3V3 Pin=U4-5
+Added Pin To Net: NetName=VCC_3V3 Pin=U5-16
+Added Pin To Net: NetName=VCC_3V3 Pin=U6-16
+Added Pin To Net: NetName=VCC_3V3 Pin=U7-16
+Added Pin To Net: NetName=VCC_3V3 Pin=U8-16
+Added Pin To Net: NetName=VCC_3V3 Pin=U9-16
+Added Pin To Net: NetName=VCC_3V3 Pin=U10-16
+Added Pin To Net: NetName=VCC_3V3 Pin=U11-16
+Added Pin To Net: NetName=VCC_3V3 Pin=U12-16
+Added Pin To Net: NetName=VCC_3V3 Pin=U13-16
+Added Pin To Net: NetName=VCC_3V3 Pin=U14-16
+Added Pin To Net: NetName=VCC_3V3 Pin=U15-16
+Added Net: Name=VCC_3V3
+Added Class: Name=usb_keyboard
+Added Room: Name=usb_keyboard
