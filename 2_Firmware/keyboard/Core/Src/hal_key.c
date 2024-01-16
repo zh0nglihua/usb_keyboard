@@ -116,7 +116,7 @@ void hal_key_debounce( uint32_t us )
 //		{
 //				printf("%02x,",scan_buffer[i]);
 //		}
-//		printf("\r\n");
+//		printf("\r\n");https://github.com/zh0nglihua/usb_keyboard/blob/main/2_Firmware/keyboard/Core/Src/hal_key.c
 #endif		
 }
 
